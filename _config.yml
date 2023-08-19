@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "山阳令狐川的博客"
+name: "山阳令狐川的博客/lotefish's blog"
 # Short bio or description (displayed in the header)
 description: "子在川上曰：\"逝者如斯夫，不舍昼夜。\""
 #
@@ -47,7 +47,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: anything # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: 
@@ -117,4 +117,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
