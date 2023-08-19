@@ -15,7 +15,7 @@ author: lotefish
 
 这是上传到github page仓库的wav+mp3音频合集：[rap_ep_2021_7_5-2023_1_22](https://github.com/lotefish/lotefish.github.io/tree/main/assets/rap_ep_2021_7_5-2023_1_22)，可能需要借助科学上网访问
 
-## 注意：这些只是我兴起之时粗糙的创作，仅作留存，请勿保存到本地或用作他用。
+## 注意：这些只是我兴起之时粗糙的创作，仅供本人留存，请勿随意用作他用。
 
 ---
 
