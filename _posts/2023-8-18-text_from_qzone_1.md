@@ -2,7 +2,7 @@
 layout: post
 title: "整理自QQ空间的随笔（一）：2019.7.10-2023.8.17"
 date: 2023-8-18
-tags: [个人随笔]
+tags: [私人随笔]
 comments: true
 author: lotefish
 ---
