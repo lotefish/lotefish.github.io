@@ -45,3 +45,19 @@ frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
 <audio controls>
   <source src="https://github.com/lotefish/lotefish.github.io/raw/main/assets/rap_ep_2021_7_5-2023_1_22/toast_to_moon.mp3" type="audio/mp3">
 </audio>
+
+---
+
+## 3. [意石之海](https://music.163.com/#/song?id=1869646705)：2021-8-15
+
+网易云播放插件：
+
+<iframe 
+frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=1869646705&auto=0&height=66">
+</iframe>
+
+用上传到github仓库的mp3文件播放：
+
+<audio controls>
+  <source src="https://github.com/lotefish/lotefish.github.io/raw/main/assets/rap_ep_2021_7_5-2023_1_22/toast_to_moon.mp3" type="audio/mp3">
+</audio>
