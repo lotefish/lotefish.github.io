@@ -19,13 +19,13 @@ favicon: https://github.com/lotefish/lotefish.github.io/raw/main/images/favicon.
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页Home
+  - name: Home
     url: /
-  - name: 关于About
+  - name: About
     url: /about
-  - name: 归档Archive
+  - name: Archive
     url: /archive
-  - name: 标签Tags
+  - name: Tags
     url: /tags
 
 # Pagination
