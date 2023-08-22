@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《逝川集》谈-追忆逝川野谈（二）：约2021冬"
+title: "《逝川集》谈-追忆逝川野谈（二）：约2020冬"
 date: 2023-8-22
 tags: [逝川野谈]
 comments: true

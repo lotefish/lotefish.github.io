@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生死笑谈-追忆逝川野谈（一）：约2021.2.18"
+title: "生死笑谈-追忆逝川野谈（一）：约2020.2.18"
 date: 2023-8-19
 tags: [逝川野谈]
 comments: true
