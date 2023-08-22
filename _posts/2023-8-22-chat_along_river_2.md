@@ -1,10 +1,10 @@
 ---
-layout:post
-title:"《逝川集》谈-追忆逝川野谈（二）：约2021冬"
-date:2023-8-22
+layout: post
+title: "《逝川集》谈-追忆逝川野谈（二）：约2021冬"
+date: 2023-8-22
 tags: [逝川野谈]
-comments:true
-author:lotefish
+comments: true
+author: lotefish
 ---
 
 “这是一本邪恶的书，它会毁掉你的一生，你不应该读它。”我向柳君诚恳地提议，“最保险的还是留个封面当作纪念，然后帮我把它烧掉。”
