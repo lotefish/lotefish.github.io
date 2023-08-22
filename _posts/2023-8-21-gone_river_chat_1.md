@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "《逝川集》谈-追忆逝川野谈（二）：约2020冬"
+title: "他者的虚无-逝川集前传：约2020冬"
 date: 2023-8-22
-tags: [逝川野谈]
+tags: [逝川集谈]
 comments: true
 author: lotefish
 ---
