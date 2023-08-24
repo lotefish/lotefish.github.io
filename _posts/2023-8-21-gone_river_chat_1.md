@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "命定的虚无-逝川集前传：约2020秋冬"
+title: "命定的虚无-逝川集前传：2020秋冬"
 date: 2023-8-21
 tags: [逝川集谈]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生死笑谈-追忆滨河野谈（一）：约2020.2.18"
+title: "生死笑谈-追忆滨河野谈（一）：2020早春"
 date: 2023-8-19
 tags: [滨河野谈]
 comments: true

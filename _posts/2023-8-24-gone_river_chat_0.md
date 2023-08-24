@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "糜烂的虚无-逝川集前前传：约2020夏秋"
+title: "糜烂的虚无-逝川集前前传：2020夏秋"
 date: 2023-8-24
 tags: [逝川集谈]
 comments: true

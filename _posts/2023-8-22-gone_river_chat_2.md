@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚伪的虚无-逝川集本谈：约2021夏"
+title: "虚伪的虚无-逝川集本谈：2021夏"
 date: 2023-8-22
 tags: [逝川集谈]
 comments: true
