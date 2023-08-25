@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杀死的虚无-逝川集后记：2023夏"
+title: "杀死的虚无-逝川集后记：2022夏"
 date: 2023-8-23
 tags: [逝川集谈]
 comments: true
