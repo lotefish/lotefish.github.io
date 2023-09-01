@@ -9,6 +9,8 @@ author: lotefish
 
 ![cover](https://github.com/lotefish/lotefish.github.io/raw/main/assets/when_will_we_get_rid_of_lust/cover.jpg)
 
+我们什么时候才能摆脱低俗？
+
 用上传到github仓库的mp3文件播放：
 <audio controls>
   <source src="https://github.com/lotefish/lotefish.github.io/raw/main/assets/when_will_we_get_rid_of_lust/when_will_we_get_rid_of_lust.mp3" type="audio/mp3">
