@@ -10,7 +10,3 @@ permalink: /about/
 ## 为何建立这个博客
 
 方便保留下自己的一些想法，以备日后不时之需。
-
-## 我分享的其他资料
-
-[大一下暑假开始的学习笔记](https://github.com/lotefish/PKU-CourseNotes-mee)
